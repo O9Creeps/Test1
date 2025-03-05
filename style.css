@@ -1,0 +1,83 @@
+body {
+	background: url("./images/background.gif");
+	color: white;
+	font-family: thin;
+}
+.titleSunset {
+	background-image: linear-gradient(red, orange);
+	font-family: sigmar;
+	text-decoration: none;
+	padding: 10px;
+	color: black;
+}
+.sunset {
+	background-image: linear-gradient(red, orange);
+	font-family: thin;
+	text-decoration: none;
+	padding: 10px;
+	color: black;
+}
+.whatisit {
+	background: #0bbbbb;
+	text-align: center;
+	padding: 20px;
+	font-family: raleway
+}
+.toolbar {
+	background: linear-gradient(#3f79d6, #448de7, #225cdc, #225cdc, #225cdc, #225cdc, #225cdc, #225cdc, #225cdc, #225cdc, #225cdc, #103580, #0a247a);
+	text-align: center;
+	padding: 20px;
+}
+.toolbar-button {
+	border-radius: 12px;
+	background-color: #3f79d6;
+	border: none;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	font-family: medival-pixel;
+	margin: 4px 2px;
+	cursor: pointer;
+	transition: 0.3s;
+}
+.toolbar-button:hover {
+	background-color: #4f89e6;
+}
+.giftags {
+	background-color: #0f0303;
+	outline: 5px solid #ffdfdf;
+	text-align: center;
+	padding: 10px;
+	color: white;
+	font-family: medival-pixel;
+	font-size: 30px
+}
+.giftags a {
+	color: cyan;
+}
+.giftags p {
+	padding: 0px;
+}
+@font-face {
+	font-family: "sigmar";
+	src: url("./fonts/Sigmar/Sigmar-Regular.ttf") format("truetype"),
+		url("./fonts/Sigmar/Sigmar-Regular.woff") format("woff")
+}
+@font-face {
+	font-family: "raleway";
+	src: url("./fonts/Raleway/static/Raleway-Regular.ttf") format("truetype"),
+		url("./fonts/Raleway/Raleway-Regular.woff") format("woff")
+}
+@font-face {
+	font-family: "medival-pixel";
+	src: url("./fonts/Jacquard_12/Jacquard12-Regular.ttf") format("truetype"),
+		url("./fonts/Jacquard_12/Jacquard12-Regular.woff") format("woff")
+}
+@font-face {
+	font-family: "thin";
+	src: url("./fonts/Tsukimi_Rounded/TsukimiRounded-Regular.ttf") format("truetype"),
+		url("./fonts/Tsukimi_Rounded/TsukimiRounded-Regular.woff") format("woff")
+}
