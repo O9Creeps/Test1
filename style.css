@@ -63,21 +63,21 @@ body {
 }
 @font-face {
 	font-family: "sigmar";
-	src: url("./fonts/Sigmar/Sigmar-Regular.ttf") format("truetype"),
-		url("./fonts/Sigmar/Sigmar-Regular.woff") format("woff")
+	src: url("./fonts/Sigmar-Regular.ttf") format("truetype"),
+		url("./fonts/Sigmar-Regular.woff") format("woff")
 }
 @font-face {
 	font-family: "raleway";
-	src: url("./fonts/Raleway/static/Raleway-Regular.ttf") format("truetype"),
-		url("./fonts/Raleway/Raleway-Regular.woff") format("woff")
+	src: url("./fonts/Raleway-Regular.ttf") format("truetype"),
+		url("./fonts/Raleway-Regular.woff") format("woff")
 }
 @font-face {
 	font-family: "medival-pixel";
-	src: url("./fonts/Jacquard_12/Jacquard12-Regular.ttf") format("truetype"),
-		url("./fonts/Jacquard_12/Jacquard12-Regular.woff") format("woff")
+	src: url("./fonts/Jacquard12-Regular.ttf") format("truetype"),
+		url("./fonts/Jacquard12-Regular.woff") format("woff")
 }
 @font-face {
 	font-family: "thin";
-	src: url("./fonts/Tsukimi_Rounded/TsukimiRounded-Regular.ttf") format("truetype"),
-		url("./fonts/Tsukimi_Rounded/TsukimiRounded-Regular.woff") format("woff")
+	src: url("./fonts/TsukimiRounded-Regular.ttf") format("truetype"),
+		url("./fonts/TsukimiRounded-Regular.woff") format("woff")
 }
